@@ -1,2 +1,3 @@
 # ReactProjects
-React Projects Repo
+React Projects Repo test
+This is demo of branch sync test
