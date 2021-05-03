@@ -22,3 +22,4 @@ jobs:
           GITHUB_TOKEN: ${{secrets.GIT_TOKEN}}
           FROM_BRANCH: "main"
           TO_BRANCH: "feature"
+          PULL_REQUEST_TITLE: "Sync feature branch with main"
